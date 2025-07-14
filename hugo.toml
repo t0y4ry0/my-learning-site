@@ -34,3 +34,6 @@ enableGitInfo = true
   BookSearch = true
   BookTheme = 'auto'
   BookRepo = 'https://github.com/t0y4ry0/my-learning-site'
+
+[build]
+  writeStats = true
