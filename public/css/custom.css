@@ -1,0 +1,15 @@
+.text-highlight-red {
+  color: red !important;
+  font-weight: bold !important;
+}
+
+.text-highlight-blue {
+  color: blue !important;
+  font-weight: bold !important;
+}
+
+mark {
+  background-color: #fff8c4; /* 好きな背景色に変更 */
+  padding: 0.2em 0.4em; /* 文字の周りの余白 */
+  border-radius: 3px;   /* 角を少し丸くする */
+}

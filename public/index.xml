@@ -8,18 +8,18 @@
     <language>ja-jp</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>iii</title>
-      <link>http://localhost:1313/docs/economics/01-demand-and-supply/</link>
+      <title>需要と供給</title>
+      <link>http://localhost:1313/docs/Economics/01-demand-and-supply-copy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/economics/01-demand-and-supply/</guid>
-      <description>&lt;p&gt;iii&lt;/p&gt;</description>
+      <guid>http://localhost:1313/docs/Economics/01-demand-and-supply-copy/</guid>
+      <description>&lt;h2 id=&#34;インフレーションの定義&#34;&gt;&#xD;&#xA;  インフレーションの定義&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e3%82%a4%e3%83%b3%e3%83%95%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%ae%e5%ae%9a%e7%be%a9&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;インフレーション（英: inflation）とは、経済学において、一定期間にわたって財やサービスの全般的な価格水準、すなわち物価が、上昇する現象を指します。&lt;/p&gt;&#xA;&lt;h3 id=&#34;主な要因&#34;&gt;&#xD;&#xA;  主な要因&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e4%b8%bb%e3%81%aa%e8%a6%81%e5%9b%a0&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;span class=&#34;text-highlight-red&#34;&gt;需要インフレーション&lt;/span&gt;&lt;/li&gt;&#xA;&lt;li&gt;コストプッシュインフレーション&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div style=&#34;text-align: center;&#34;&gt;&#xA;この文章は中央に表示されます。&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;text-align: right;&#34;&gt;&#xA;この文章は右側に表示されます。&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xD;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xD;&#xA;    &#xA;ここに左側の文章や画像を配置します。&#xA;&#xA;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xD;&#xA;    &#xA;&#xA;ここに右側の文章や画像を配置します。&#xA;&lt;img src=&#34;http://localhost:1313/images/finance.png&#34; alt=&#34;金融政策イメージ&#34;&gt;&#xA;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h2 id=&#34;インフレーションの定義-1&#34;&gt;&#xD;&#xA;  インフレーションの定義&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e3%82%a4%e3%83%b3%e3%83%95%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%ae%e5%ae%9a%e7%be%a9-1&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;インフレーション（英: inflation）とは、経済学において、一定期間にわたって財やサービスの全般的な価格水準、すなわち物価が、上昇する現象を指します。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;ここから画像テスト&#34;&gt;&#xD;&#xA;  ここから画像テスト&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e3%81%93%e3%81%93%e3%81%8b%e3%82%89%e7%94%bb%e5%83%8f%e3%83%86%e3%82%b9%e3%83%88&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/finance.png&#34; alt=&#34;金融政策イメージ&#34; /&gt;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
-      <title>需要と供給</title>
-      <link>http://localhost:1313/docs/economics/01-demand-and-supply-copy/</link>
+      <title>iii</title>
+      <link>http://localhost:1313/docs/Economics/01-demand-and-supply/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/economics/01-demand-and-supply-copy/</guid>
-      <description>&lt;p&gt;この記事では、需要と供給の基本的な概念について解説します。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/docs/Economics/01-demand-and-supply/</guid>
+      <description>&lt;p&gt;iii&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

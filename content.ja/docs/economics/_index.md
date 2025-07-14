@@ -1,7 +1,4 @@
 ---
-menu:
-  after:
-    name: blog
-    weight: 5
-title: 経済学
+title: "経済学"
+weight: 100
 ---

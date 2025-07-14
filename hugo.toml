@@ -29,6 +29,7 @@ enableGitInfo = true
 # --- ここまでが多言語設定 ---
 
 [params]
+  BookCollapseSection = true
   BookSection = 'docs'
   BookSearch = true
   BookTheme = 'auto'
