@@ -1,3 +1,35 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://example.com/'
+theme = 'hugo-book'
+defaultContentLanguage = 'ja'
+
+# Bookテーマ用の基本設定
+disablePathToLower = true
+enableGitInfo = true
+
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true # Mermaidなどのショートコードに必要
+
+# --- ここからが多言語設定 ---
+[languages]
+  [languages.ja]
+    languageName = '日本語'
+    languageCode = 'ja-jp'
+    contentDir = 'content.ja'
+    title = '学習サイト' # 日本語版のサイトタイトル
+    weight = 1
+
+  [languages.en]
+    languageName = 'English'
+    languageCode = 'en-us'
+    contentDir = 'content.en'
+    title = 'My Learning Site' # 英語版のサイトタイトル
+    weight = 2
+
+# --- ここまでが多言語設定 ---
+
+[params]
+  BookSection = 'docs'
+  BookSearch = true
+  BookTheme = 'auto'
+  BookRepo = 'https://github.com/t0y4ry0/my-learning-site'
